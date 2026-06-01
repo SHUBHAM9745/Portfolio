@@ -19,3 +19,8 @@ This is my personal portfolio website built using **React.js**. It showcases my 
    ```bash
    git clone https://github.com/SHUBHAM9745/portfolio.git
    cd portfolio
+
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shubham-mishra-40bba4410/)
+- [GitHub](https://github.com/SHUBHAM9745)
